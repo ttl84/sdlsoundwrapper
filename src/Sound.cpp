@@ -1,4 +1,5 @@
-#include "Sound.h"
+#include "sdlsoundwrapper/Sound.h"
+#include "SDL2/SDL.h"
 #include <vector>
 #include <atomic>
 #include <iostream>
